@@ -1,6 +1,7 @@
 # Docker
 
 Lesson 1: What is Docker?
+
 Lesson 2: Getting Docker prepared
 Lesson 3: Images and Containers
 Lesson 4: Parent Images and Docker Hub
